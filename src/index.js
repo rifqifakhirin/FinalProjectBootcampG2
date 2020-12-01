@@ -3,6 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import LoginPage from "../src/page/loginPage"
+import RegisterPage from "../src/page/registerPage"
+import DisplayPage from "../src/page/display"
+import PaymentBPJS from "../src/page/paymentbpjs"
+import PayTransBPJS from "../src/page/paytransbpjs"
+import PayTransPDAM from "../src/page/paytranspdam"
 
 ReactDOM.render(
   <React.StrictMode>
